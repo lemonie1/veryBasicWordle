@@ -1,6 +1,5 @@
 # luckBasedWordle
-Wordle, but based on luck. 
 
-This project (if it can even be called that is just some random thing I made to practice my code. Of course you can change any of the code)
+the stupidest thing ive ever made. i was 11. sorry.
 
-= TO RUN THIS GAME, YOU NEED TO DOWNLOAD A COMPILER, OR YOU CAN USE AN ONLINE COMPILER. The game starts running in the terminal or output. Online compiler with the code:- https://www.online-python.com/1J4DrxXqyS
+= TO RUN THIS GAME, YOU NEED TO DOWNLOAD A COMPILER, OR YOU CAN USE AN ONLINE COMPILER. The game starts running in the terminal or output cuz my ass is dumb and idw make ui stuffs - https://www.online-python.com/1J4DrxXqyS
